@@ -1,16 +1,3 @@
-# flutter_application_32
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/Belevvv/Lesson5_2ISP11-27/assets/129681337/5c14d59e-a837-4aed-bd38-17da47194ef8)
+![image](https://github.com/Belevvv/Lesson5_2ISP11-27/assets/129681337/4d8308c5-f212-4e61-be1a-930e2c56fe1c)
+![image](https://github.com/Belevvv/Lesson5_2ISP11-27/assets/129681337/a730bbb7-8ebc-48e3-a7bb-edbe2ffc2dd0)
